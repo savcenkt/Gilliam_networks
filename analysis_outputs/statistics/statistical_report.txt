@@ -1,0 +1,83 @@
+
+COMPREHENSIVE STATISTICAL ANALYSIS REPORT
+Psycholinguistic Network Analysis: TD vs SLI
+================================================================================
+
+SAMPLE CHARACTERISTICS
+----------------------
+Total children: 668
+  - TD children: 497
+  - SLI children: 171
+Age range: 5-11 years
+
+STATISTICAL ASSUMPTIONS
+-----------------------
+                metric  shapiro_td_stat  shapiro_td_p  shapiro_sli_stat  shapiro_sli_p  td_normal  sli_normal  levene_stat  levene_p  equal_variance
+Clustering Coefficient         0.996187  2.791118e-01          0.983785   4.398045e-02       True       False     4.070108  0.044049           False
+   Average Path Length         0.975850  2.566987e-07          0.956543   3.802530e-05      False       False     1.681950  0.195115            True
+       Network Density         0.904148  3.906187e-17          0.831696   9.138729e-13      False       False    21.667602  0.000004           False
+     Degree Centrality         0.904148  3.906187e-17          0.831696   9.138729e-13      False       False    21.667602  0.000004           False
+          Transitivity         0.970004  1.493700e-08          0.967835   5.383644e-04      False       False     0.020847  0.885240            True
+
+PRIMARY GROUP COMPARISONS
+-------------------------
+                metric  td_mean   td_std  td_median  td_n  sli_mean  sli_std  sli_median  sli_n  mean_difference  t_statistic    t_p_value  u_statistic    u_p_value   cohen_d effect_size_interpretation
+Clustering Coefficient 0.429866 0.055172   0.428485   497  0.459282 0.063004    0.451636    171        -0.029416    -5.793169 1.065397e-08      31378.0 3.284370e-07 -0.496738                      Small
+   Average Path Length 4.652158 1.585155   4.826087   497  4.002278 1.739435    4.283453    171         0.649880     4.508374 7.718080e-06      53014.0 1.344888e-06  0.390533                      Small
+       Network Density 0.021939 0.008473   0.020546   497  0.030321 0.013445    0.027932    171        -0.008382    -9.473257 4.639140e-20      23475.0 2.392197e-18 -0.745920                     Medium
+     Degree Centrality 0.021939 0.008473   0.020546   497  0.030321 0.013445    0.027932    171        -0.008382    -9.473257 4.639140e-20      23475.0 2.392197e-18 -0.745920                     Medium
+          Transitivity 0.896090 0.037084   0.900897   497  0.893362 0.038168    0.896427    171         0.002728     0.823575 4.104757e-01      44587.0 3.362772e-01  0.072499                      Small
+
+INTERPRETATION OF EFFECT SIZES
+------------------------------
+Cohen's d interpretation:
+  - Small: 0.2 - 0.5
+  - Medium: 0.5 - 0.8
+  - Large: > 0.8
+
+KEY FINDINGS
+------------
+
+Significant differences (p < 0.05):
+  • Degree Centrality: TD lower than SLI (d=-0.75, p=0.0000)
+  • Network Density: TD lower than SLI (d=-0.75, p=0.0000)
+  • Clustering Coefficient: TD lower than SLI (d=-0.50, p=0.0000)
+  • Average Path Length: TD higher than SLI (d=0.39, p=0.0000)
+
+
+MLU-MATCHED COMPARISON
+----------------------
+               metric    td_mean    sli_mean  mean_difference  std_difference  t_statistic  p_value   cohen_d  n_pairs
+       avg_clustering   0.427582    0.459282        -0.031700        0.092157    -4.484929 0.000013 -0.343978      171
+      avg_path_length   3.356328    4.002278        -0.645950        2.028825    -4.151248 0.000052 -0.318386      171
+              density   0.028745    0.030321        -0.001576        0.011646    -1.764558 0.079434 -0.135335      171
+avg_degree_centrality   0.028745    0.030321        -0.001576        0.011646    -1.764558 0.079434 -0.135335      171
+         transitivity   0.902590    0.893362         0.009228        0.056049     2.146627 0.033241  0.164639      171
+            num_nodes 239.538012  264.105263       -24.567251      125.943549    -2.543344 0.011871 -0.195066      171
+            num_edges 829.093567 1042.859649      -213.766082      974.707509    -2.859492 0.004775 -0.219313      171
+
+
+AGE-STRATIFIED ANALYSIS
+-----------------------
+Number of age groups analyzed: 7
+See 'age_stratified_analysis.csv' for detailed results
+
+
+FILES GENERATED
+---------------
+Figures (n=6):
+  - fig1_topology_comparison.png/pdf
+  - fig2_age_progression.png/pdf
+  - fig3_distributions.png/pdf
+  - fig4_effect_sizes.png/pdf
+  - fig5_correlation_matrices.png/pdf
+  - fig6_mlu_matched.png/pdf
+
+Statistical outputs:
+  - assumption_tests.csv
+  - group_comparisons.csv
+  - age_stratified_analysis.csv
+  - effect_sizes_by_age.csv
+
+================================================================================
+Analysis complete: 2025-11-04 18:07:38.029770
