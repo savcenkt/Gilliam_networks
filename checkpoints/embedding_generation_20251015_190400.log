@@ -1,0 +1,83 @@
+2025-10-15 19:04:00,949 - BERTEmbeddings - INFO - ================================================================================
+2025-10-15 19:04:00,949 - BERTEmbeddings - INFO - BERT Embedding Generation for Gillam Corpus
+2025-10-15 19:04:00,949 - BERTEmbeddings - INFO - ================================================================================
+2025-10-15 19:04:00,949 - BERTEmbeddings - INFO - Loading model: bert-base-uncased
+2025-10-15 19:04:01,958 - BERTEmbeddings - INFO - Model loaded successfully. Using device: cuda
+2025-10-15 19:04:01,962 - BERTEmbeddings - INFO - Found 668 individual child files to process
+2025-10-15 19:04:01,963 - BERTEmbeddings - INFO - Processing 668 remaining files...
+2025-10-15 19:04:02,676 - BERTEmbeddings - INFO - Progress: 10/668 files | Rate: 14.01 files/sec | ETA: 0.8 minutes
+2025-10-15 19:04:03,239 - BERTEmbeddings - INFO - Progress: 20/668 files | Rate: 15.67 files/sec | ETA: 0.7 minutes
+2025-10-15 19:04:03,575 - BERTEmbeddings - INFO - Progress: 30/668 files | Rate: 18.60 files/sec | ETA: 0.6 minutes
+2025-10-15 19:04:03,863 - BERTEmbeddings - INFO - Progress: 40/668 files | Rate: 21.05 files/sec | ETA: 0.5 minutes
+2025-10-15 19:04:04,164 - BERTEmbeddings - INFO - Progress: 50/668 files | Rate: 22.71 files/sec | ETA: 0.5 minutes
+2025-10-15 19:04:04,477 - BERTEmbeddings - INFO - Progress: 60/668 files | Rate: 23.87 files/sec | ETA: 0.4 minutes
+2025-10-15 19:04:04,774 - BERTEmbeddings - INFO - Progress: 70/668 files | Rate: 24.90 files/sec | ETA: 0.4 minutes
+2025-10-15 19:04:05,132 - BERTEmbeddings - INFO - Progress: 80/668 files | Rate: 25.24 files/sec | ETA: 0.4 minutes
+2025-10-15 19:04:05,477 - BERTEmbeddings - INFO - Progress: 90/668 files | Rate: 25.61 files/sec | ETA: 0.4 minutes
+2025-10-15 19:04:05,758 - BERTEmbeddings - INFO - Progress: 100/668 files | Rate: 26.35 files/sec | ETA: 0.4 minutes
+2025-10-15 19:04:06,148 - BERTEmbeddings - INFO - Progress: 110/668 files | Rate: 26.28 files/sec | ETA: 0.4 minutes
+2025-10-15 19:04:06,531 - BERTEmbeddings - INFO - Progress: 120/668 files | Rate: 26.27 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:06,844 - BERTEmbeddings - INFO - Progress: 130/668 files | Rate: 26.63 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:07,201 - BERTEmbeddings - INFO - Progress: 140/668 files | Rate: 26.73 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:07,576 - BERTEmbeddings - INFO - Progress: 150/668 files | Rate: 26.72 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:07,975 - BERTEmbeddings - INFO - Progress: 160/668 files | Rate: 26.61 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:08,391 - BERTEmbeddings - INFO - Progress: 170/668 files | Rate: 26.45 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:08,914 - BERTEmbeddings - INFO - Progress: 180/668 files | Rate: 25.90 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:09,414 - BERTEmbeddings - INFO - Progress: 190/668 files | Rate: 25.50 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:09,938 - BERTEmbeddings - INFO - Progress: 200/668 files | Rate: 25.08 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:10,348 - BERTEmbeddings - INFO - Progress: 210/668 files | Rate: 25.04 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:10,776 - BERTEmbeddings - INFO - Progress: 220/668 files | Rate: 24.96 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:11,181 - BERTEmbeddings - INFO - Progress: 230/668 files | Rate: 24.95 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:11,735 - BERTEmbeddings - INFO - Progress: 240/668 files | Rate: 24.56 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:12,200 - BERTEmbeddings - INFO - Progress: 250/668 files | Rate: 24.42 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:12,697 - BERTEmbeddings - INFO - Progress: 260/668 files | Rate: 24.22 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:13,213 - BERTEmbeddings - INFO - Progress: 270/668 files | Rate: 24.00 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:13,665 - BERTEmbeddings - INFO - Progress: 280/668 files | Rate: 23.93 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:14,017 - BERTEmbeddings - INFO - Progress: 290/668 files | Rate: 24.06 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:14,285 - BERTEmbeddings - INFO - Progress: 300/668 files | Rate: 24.35 files/sec | ETA: 0.3 minutes
+2025-10-15 19:04:14,681 - BERTEmbeddings - INFO - Progress: 310/668 files | Rate: 24.38 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:15,015 - BERTEmbeddings - INFO - Progress: 320/668 files | Rate: 24.52 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:15,297 - BERTEmbeddings - INFO - Progress: 330/668 files | Rate: 24.75 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:15,632 - BERTEmbeddings - INFO - Progress: 340/668 files | Rate: 24.87 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:16,021 - BERTEmbeddings - INFO - Progress: 350/668 files | Rate: 24.90 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:16,340 - BERTEmbeddings - INFO - Progress: 360/668 files | Rate: 25.04 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:16,774 - BERTEmbeddings - INFO - Progress: 370/668 files | Rate: 24.98 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:17,087 - BERTEmbeddings - INFO - Progress: 380/668 files | Rate: 25.13 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:17,362 - BERTEmbeddings - INFO - Progress: 390/668 files | Rate: 25.33 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:17,646 - BERTEmbeddings - INFO - Progress: 400/668 files | Rate: 25.51 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:17,962 - BERTEmbeddings - INFO - Progress: 410/668 files | Rate: 25.63 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:18,264 - BERTEmbeddings - INFO - Progress: 420/668 files | Rate: 25.77 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:18,560 - BERTEmbeddings - INFO - Progress: 430/668 files | Rate: 25.91 files/sec | ETA: 0.2 minutes
+2025-10-15 19:04:18,899 - BERTEmbeddings - INFO - Progress: 440/668 files | Rate: 25.98 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:19,310 - BERTEmbeddings - INFO - Progress: 450/668 files | Rate: 25.94 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:19,614 - BERTEmbeddings - INFO - Progress: 460/668 files | Rate: 26.06 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:19,980 - BERTEmbeddings - INFO - Progress: 470/668 files | Rate: 26.09 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:20,256 - BERTEmbeddings - INFO - Progress: 480/668 files | Rate: 26.24 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:20,530 - BERTEmbeddings - INFO - Progress: 490/668 files | Rate: 26.39 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:20,894 - BERTEmbeddings - INFO - Progress: 500/668 files | Rate: 26.41 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:21,300 - BERTEmbeddings - INFO - Progress: 510/668 files | Rate: 26.37 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:21,760 - BERTEmbeddings - INFO - Progress: 520/668 files | Rate: 26.27 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:22,201 - BERTEmbeddings - INFO - Progress: 530/668 files | Rate: 26.19 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:22,652 - BERTEmbeddings - INFO - Progress: 540/668 files | Rate: 26.10 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:23,049 - BERTEmbeddings - INFO - Progress: 550/668 files | Rate: 26.08 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:23,491 - BERTEmbeddings - INFO - Progress: 560/668 files | Rate: 26.01 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:23,953 - BERTEmbeddings - INFO - Progress: 570/668 files | Rate: 25.92 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:24,430 - BERTEmbeddings - INFO - Progress: 580/668 files | Rate: 25.82 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:24,856 - BERTEmbeddings - INFO - Progress: 590/668 files | Rate: 25.77 files/sec | ETA: 0.1 minutes
+2025-10-15 19:04:25,250 - BERTEmbeddings - INFO - Progress: 600/668 files | Rate: 25.77 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:25,688 - BERTEmbeddings - INFO - Progress: 610/668 files | Rate: 25.71 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:26,117 - BERTEmbeddings - INFO - Progress: 620/668 files | Rate: 25.67 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:26,504 - BERTEmbeddings - INFO - Progress: 630/668 files | Rate: 25.67 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:26,900 - BERTEmbeddings - INFO - Progress: 640/668 files | Rate: 25.66 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:27,308 - BERTEmbeddings - INFO - Progress: 650/668 files | Rate: 25.65 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:27,748 - BERTEmbeddings - INFO - Progress: 660/668 files | Rate: 25.60 files/sec | ETA: 0.0 minutes
+2025-10-15 19:04:28,060 - BERTEmbeddings - INFO - ================================================================================
+2025-10-15 19:04:28,061 - BERTEmbeddings - INFO - PROCESSING COMPLETE
+2025-10-15 19:04:28,061 - BERTEmbeddings - INFO - Total files processed: 668
+2025-10-15 19:04:28,061 - BERTEmbeddings - INFO - Failed files: 0
+2025-10-15 19:04:28,061 - BERTEmbeddings - INFO - Total time: 0.43 minutes
+2025-10-15 19:04:28,061 - BERTEmbeddings - INFO - Average time per file: 0.04 seconds
+2025-10-15 19:04:28,061 - BERTEmbeddings - INFO - ================================================================================
+2025-10-15 19:04:28,065 - BERTEmbeddings - INFO - Summary report saved to: embeddings/embedding_generation_report_20251015_190428.json
+2025-10-15 19:04:28,065 - BERTEmbeddings - INFO - TD files processed: 497
+2025-10-15 19:04:28,065 - BERTEmbeddings - INFO - SLI files processed: 171

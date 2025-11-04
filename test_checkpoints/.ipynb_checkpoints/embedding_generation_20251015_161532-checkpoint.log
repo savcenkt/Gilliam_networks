@@ -1,0 +1,5 @@
+2025-10-15 16:15:32,494 - BERTEmbeddings - INFO - ================================================================================
+2025-10-15 16:15:32,495 - BERTEmbeddings - INFO - BERT Embedding Generation for Gillam Corpus
+2025-10-15 16:15:32,495 - BERTEmbeddings - INFO - ================================================================================
+2025-10-15 16:15:32,495 - BERTEmbeddings - INFO - Loading model: bert-base-uncased
+2025-10-15 16:15:40,014 - BERTEmbeddings - INFO - Model loaded successfully. Using device: cuda
