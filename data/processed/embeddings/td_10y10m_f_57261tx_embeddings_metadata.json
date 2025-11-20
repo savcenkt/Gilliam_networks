@@ -1,0 +1,7 @@
+{
+  "file_name": "td_10y10m_f_57261tx.txt",
+  "timestamp": "2025-10-15T19:04:08.651995",
+  "model": "bert-base-uncased",
+  "num_words": 480,
+  "embedding_dims": 768
+}

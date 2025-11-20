@@ -1,0 +1,7 @@
+{
+  "file_name": "sli_10y0m_f_55718tx-l.txt",
+  "timestamp": "2025-10-15T19:04:02.120826",
+  "model": "bert-base-uncased",
+  "num_words": 222,
+  "embedding_dims": 768
+}
