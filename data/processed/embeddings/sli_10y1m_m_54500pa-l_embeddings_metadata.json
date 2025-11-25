@@ -1,0 +1,7 @@
+{
+  "file_name": "sli_10y1m_m_54500pa-l.txt",
+  "timestamp": "2025-10-15T19:04:02.523492",
+  "model": "bert-base-uncased",
+  "num_words": 485,
+  "embedding_dims": 768
+}
